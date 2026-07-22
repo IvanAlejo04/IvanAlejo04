@@ -26,9 +26,7 @@
 
 ### Tools & Workflow
 
-![Git](https://skillicons.dev/icons?i=git)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
-![Linux](https://skillicons.dev/icons?i=linux)
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![GOWIN EDA](https://img.shields.io/badge/GOWIN%20EDA-8B5CF6?style=for-the-badge&logoColor=white)
 
