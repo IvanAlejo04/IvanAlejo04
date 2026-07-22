@@ -41,5 +41,3 @@
 ![SPI / I²C / UART](https://img.shields.io/badge/SPI%20%7C%20I²C%20%7C%20UART-F59E0B?style=flat-square&logoColor=white)
 
 ---
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00BFFF&style=flat-square)
