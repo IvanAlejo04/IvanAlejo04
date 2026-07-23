@@ -135,6 +135,7 @@
 <img src="https://github-stats-extended.vercel.app/api?username=IvanAlejo04&show_icons=true&theme=tokyonight&v=2&hide_border=true&bg_color=0D1117&title_color=4A90D9&icon_color=8B5CF6&text_color=c9d1d9" height="160" alt="GitHub Stats" />
 &nbsp;&nbsp;
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=IvanAlejo04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90D9&text_color=c9d1d9&langs_count=6" height="160" alt="Top Languages" />
+https://github-stats-extended.vercel.app/api/top-langs/?username=IvanAlejo04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90D9&text_color=c9d1d9&langs_count=6&hide=c%2B%2B
 
 <br><br>
 
