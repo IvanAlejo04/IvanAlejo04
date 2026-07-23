@@ -1,0 +1,6 @@
+<svg width="500" height="34" viewBox="0 0 500 34" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="7" width="500" height="20" rx="10" fill="#1a1a2e"/>
+  <rect x="0" y="7" width="325" height="20" rx="10" fill="#8B5CF6"/>
+  <text x="10" y="22" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="600" fill="#ffffff">Verilog</text>
+  <text x="490" y="22" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="600" fill="#c9d1d9" text-anchor="end">65%</text>
+</svg>
