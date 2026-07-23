@@ -59,7 +59,7 @@ Digital logic, register-level programming, and low-level system design.
 ### GitHub Stats
 
 <div align="center">
-<table width="100%"> <tr> <td valign="top" width="50%"> <img src="https://github-stats-extended.vercel.app/api?username=IvanAlejo04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90D9&icon_color=8B5CF6&text_color=c9d1d9" width="100%" alt="GitHub Stats" /> </td> <td valign="top" width="50%"> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=IvanAlejo04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90D9&text_color=c9d1d9&langs_count=6&hide=c%2B%2B" width="100%" alt="Top Languages" /> </td> </tr> </table> <img src="https://streak-stats.demolab.com?user=IvanAlejo04&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=4A90D9&ring=8B5CF6&fire=F59E0B&currStreakLabel=4A90D9" width="100%" alt="GitHub Streak" />
+<table width="100%"> <tr> <td valign="top" width="50%"> <img src="https://github-stats-extended.vercel.app/api?username=IvanAlejo04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90D9&icon_color=8B5CF6&text_color=c9d1d9" width="100%" alt="GitHub Stats" /> </td> <td valign="top" width="50%"> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=IvanAlejo04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90D9&text_color=c9d1d9&langs_count=6&hide=c%2B%2B" width="100%" alt="Top Languages" /> </td> </tr> </table> 
 </div>
 
 <div align="center">
