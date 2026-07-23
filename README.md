@@ -24,9 +24,9 @@
 
 <img src="https://skillicons.dev/icons?i=c&theme=dark" height="48" alt="C" title="Embedded C" />
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Verilog-1a1a2e?style=for-the-badge&logo=v&logoColor=4A90D9&labelColor=0D1117" alt="Verilog" />
+<img src="assets/verilog.svg" height="48" alt="Verilog" title="Verilog" />
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/SystemVerilog-1a1a2e?style=for-the-badge&logoColor=6D28D9&labelColor=0D1117&color=2C3E8C" alt="SystemVerilog" />
+<img src="assets/assembly.svg" height="48" alt="Assembly" title="ARM Assembly" />
 
 </div>
 
