@@ -1,5 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:4A90D9&height=200&section=header&text=Embedded%20Systems%20%26%20FPGA%20Engineer&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=RTL%20Design%20%7C%20Firmware%20%7C%20Low-Level%20Systems&descAlignY=58&descSize=16&descColor=8ab4f8&animation=fadeIn" />
-
+---
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4A90D9&center=true&vCenter=true&width=600&lines=Designing+RTL+on+FPGA;Writing+Firmware+for+STM32;Speaking+the+language+of+registers" alt="Typing SVG" />
